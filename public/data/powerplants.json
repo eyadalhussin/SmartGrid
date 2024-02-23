@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Powerplant A",
+      "number_of_generators": 2,
+      "current_power_generation": 45000,
+      "fuel_type": "Coal"
+    },
+    {
+      "id": 2,
+      "name": "Powerplant B",
+      "number_of_generators": 1,
+      "current_power_generation": 55000,
+      "fuel_type": "Oil"
+    },
+    {
+      "id": 3,
+      "name": "Powerplant C",
+      "number_of_generators": 3,
+      "current_power_generation": 35000,
+      "fuel_type": "Coal"
+    }
+  ]

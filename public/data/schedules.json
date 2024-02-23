@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "deviceID": 1310,
+      "smarthomeId": 131,
+      "consumption": 15,
+      "duration": 45,
+      "start": "05.12.2023 - 08:30",
+      "end": "05.12.2023 - 09:15",
+      "price": 0.50
+    },
+    {
+      "id": 2,
+      "deviceID": 5510,
+      "smarthomeId": 551,
+      "consumption": 25,
+      "duration": 60,
+      "start": "06.12.2023 - 15:45",
+      "end": "06.12.2023 - 16:45",
+      "price": 0.75
+    },
+    {
+      "id": 3,
+      "deviceID": 6670,
+      "smarthomeId": 667,
+      "consumption": 20,
+      "duration": 30,
+      "start": "07.12.2023 - 12:00",
+      "end": "07.12.2023 - 12:30",
+      "price": 0.40
+    },
+    {
+      "id": 4,
+      "deviceID": 8890,
+      "smarthomeId": 889,
+      "consumption": 28,
+      "duration": 75,
+      "start": "05.12.2023 - 19:20",
+      "end": "05.12.2023 - 20:35",
+      "price": 0.90
+    },
+    {
+      "id": 5,
+      "deviceID": 4140,
+      "smarthomeId": 414,
+      "consumption": 18,
+      "duration": 45,
+      "start": "06.12.2023 - 06:10",
+      "end": "06.12.2023 - 06:55",
+      "price": 0.60
+    },
+    {
+      "id": 6,
+      "deviceID": 9805,
+      "smarthomeId": 980,
+      "consumption": 30,
+      "duration": 90,
+      "start": "07.12.2023 - 14:15",
+      "end": "07.12.2023 - 15:45",
+      "price": 0.99
+    },
+    {
+      "id": 7,
+      "deviceID": 5328,
+      "smarthomeId": 532,
+      "consumption": 22,
+      "duration": 60,
+      "start": "05.12.2023 - 21:30",
+      "end": "05.12.2023 - 22:30",
+      "price": 0.80
+    },
+    {
+      "id": 8,
+      "deviceID": 2395,
+      "smarthomeId": 239,
+      "consumption": 27,
+      "duration": 45,
+      "start": "06.12.2023 - 10:05",
+      "end": "06.12.2023 - 10:50",
+      "price": 0.85
+    },
+    {
+      "id": 9,
+      "deviceID": 2934,
+      "smarthomeId": 293,
+      "consumption": 17,
+      "duration": 30,
+      "start": "07.12.2023 - 17:40",
+      "end": "07.12.2023 - 18:10",
+      "price": 0.45
+    },
+    {
+      "id": 10,
+      "deviceID": 1039,
+      "smarthomeId": 103,
+      "consumption": 23,
+      "duration": 60,
+      "start": "05.12.2023 - 23:00",
+      "end": "05.12.2023 - 00:00",
+      "price": 0.70
+    }
+  ]

@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Windpark A", "number_of_turbines": 3, "turbine_efficiency": 5, "cell_turbine_diameter": 85 },
+    { "id": 2, "name": "Windpark B", "number_of_turbines": 3, "turbine_efficiency": 8, "cell_turbine_diameter": 90 },
+    { "id": 3, "name": "Windpark C", "number_of_turbines": 3, "turbine_efficiency": 6, "cell_turbine_diameter": 88 },
+    { "id": 4, "name": "Windpark D", "number_of_turbines": 3, "turbine_efficiency": 9, "cell_turbine_diameter": 92 }
+  ]

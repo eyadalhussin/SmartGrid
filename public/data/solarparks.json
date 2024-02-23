@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Solarpark A", "number_of_cells": 2, "cell_efficiency": 1 },
+    { "id": 2, "name": "Solarpark B", "number_of_cells": 1, "cell_efficiency": 1 },
+    { "id": 3, "name": "Solarpark C", "number_of_cells": 3, "cell_efficiency": 1 },
+    { "id": 4, "name": "Solarpark D", "number_of_cells": 1, "cell_efficiency": 1 }
+  ]
